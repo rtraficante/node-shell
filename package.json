@@ -1,0 +1,24 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtraficante/node-shell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtraficante/node-shell/issues"
+  },
+  "homepage": "https://github.com/rtraficante/node-shell#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
